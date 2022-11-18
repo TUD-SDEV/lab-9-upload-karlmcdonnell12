@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "4816525b-0a42-4cc2-b95d-35fe78112b4b",
+        "fields": {
+            "title": "Python Cookbook: recipes for mastering python",
+            "author": "Brian K. Jones",
+            "price": "40.00",
+            "date_publication": "2022-11-18",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "54fcc261-a509-4df1-bb07-a1eee379aab4",
+        "fields": {
+            "title": "fallout the wasteland",
+            "author": "adam driver",
+            "price": "18.00",
+            "date_publication": "2021-01-03",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "e6b6205e-0621-4b71-8afc-6ed7187d804c",
+        "fields": {
+            "title": "Tuesdays with morrie",
+            "author": "adam byrne",
+            "price": "45.00",
+            "date_publication": "2022-02-09",
+            "cover": ""
+        }
+    }
+]
